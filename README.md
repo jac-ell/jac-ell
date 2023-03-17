@@ -5,7 +5,7 @@
 
 👩🏼‍💻 Senior Software Engineer at <a href src="https://www.lego.com/en-us/aboutus/lego-group/the-lego-brand" target="_blank">The LEGO Group</a>
 <br />
-🔭 Working on a B2B Virtual Showroom
+🔭 Working on a Virtual Showroom
 <br /> <br />
 🇨🇦 Canadian
 <br />
