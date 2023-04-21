@@ -24,4 +24,4 @@
 
 <hr />
 
-_Mountain photo by <a href="https://www.instagram.com/that_liam/">Liam Davidson</a> as part of his Happy Place series_
+_Mountain photo by Liam Davidson as part of his Happy Place series_
