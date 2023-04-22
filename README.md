@@ -3,7 +3,7 @@
 
 <h3>Hi, I'm Jackie 👋 </h3>
 
-👩🏼‍💻 Senior Software Engineer at <a href src="https://www.lego.com/en-us/aboutus/lego-group/the-lego-brand">The LEGO Group</a>
+👩🏼‍💻 Senior Software Engineer at <a href src="https://www.lego.com/en-us/aboutus/lego-group">The LEGO Group</a>
 <br />
 🔭 Working on a Virtual Showroom
 <br /> <br />
