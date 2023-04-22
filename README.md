@@ -3,7 +3,7 @@
 
 <h3>Hi, I'm Jackie 👋 </h3>
 
-👩🏼‍💻 Senior Software Engineer at <a href src="https://www.lego.com/en-us/aboutus/lego-group/the-lego-brand" target="_blank">The LEGO Group</a>
+👩🏼‍💻 Senior Software Engineer at <a href src="https://www.lego.com/en-us/aboutus/lego-group/the-lego-brand">The LEGO Group</a>
 <br />
 🔭 Working on a Virtual Showroom
 <br /> <br />
@@ -11,9 +11,9 @@
 <br />
 📍 Living in Denmark
 <br /> <br />
-⬅️ <a href="https://github.com/jaxee" target="_blank">Previous GitHub account</a>
+⬅️ <a href="https://github.com/jaxee">Previous GitHub account</a>
 <br/>
-💼 <a href="https://www.linkedin.com/in/jell/" target="_blank">LinkedIn</a>
+💼 <a href="https://www.linkedin.com/in/jell/">LinkedIn</a>
 <br /> <br />
 
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
