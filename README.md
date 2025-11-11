@@ -3,17 +3,16 @@
 
 <h3>Hi, I'm Jackie 👋 </h3>
 
-👩🏼‍💻 Senior Software Engineer at <a href="https://www.lego.com/en-us/aboutus/lego-group">The LEGO Group</a>
+<h4>Senior Software Engineer </h4>
+🇩🇰 <a href="https://www.lego.com/en-us/aboutus/lego-group">The LEGO Group</a> 2022 - 2025
 <br />
-📈 Working on B2B Analytics
-<br /> <br />
-🇨🇦 Canadian
+🇨🇦 <a href="https://www.shopify.com">Shopify</a> 2017 - 2022
 <br />
-📍 Living in Denmark
-<br /> <br />
-⬅️ <a href="https://github.com/jaxee">Previous GitHub account</a>
-<br/>
+
+<br />
 💼 <a href="https://www.linkedin.com/in/jell/">LinkedIn</a>
+<br/>
+⬅️ <a href="https://github.com/jaxee">Previous GitHub account</a>
 <br /> <br />
 
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
