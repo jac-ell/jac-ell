@@ -4,6 +4,8 @@
 <h3>Hi, I'm Jackie 👋 </h3>
 
 <h4>Senior Software Engineer </h4>
+🇨🇦 <a href="https://www.shopify.com">Shopify</a> 2025 - Present
+<br />
 🇩🇰 <a href="https://www.lego.com/en-us/aboutus/lego-group">The LEGO Group</a> 2022 - 2025
 <br />
 🇨🇦 <a href="https://www.shopify.com">Shopify</a> 2017 - 2022
